@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Feryel Neffati</h1>
-<h3 align="center">A Software Developer based on United States ![image](https://github.com/FerryNef/FerryNef/assets/147642321/30565689-03e1-42f0-a485-ea8ba8864098)
- </h3> 
+<h3 align="center">A Software Developer based on United States 🗽 </h3> 
 
 - 👯 I’m looking to collaborate on **project using Java/C++**
 - 📫 Contact me at **feryel.neffati@gmail.com**
