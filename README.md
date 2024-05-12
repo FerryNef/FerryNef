@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Feryel Neffati</h1>
-<h3 align="center">A Software Developer based on United States :us: </h3>
+<h3 align="center">A Software Developer based on United States </h3> :us: 
 
 - 👯 I’m looking to collaborate on **project using Java/C++**
 - 📫 Contact me at **feryel.neffati@gmail.com**
